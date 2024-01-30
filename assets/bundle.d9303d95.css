@@ -1515,7 +1515,8 @@ body.is-scroll-native.menu-is-open [data-scroll-item] {
 }
 
 .ts-p-sm .line {
-    white-space: nowrap
+    white-space: wrap;
+    width: 100%;
 }
 
 .ts-quote {
@@ -3966,7 +3967,8 @@ html.is-safari .reel-video-inner {
 
 .landing-services-text,
 .landing-vision-text {
-    margin-top: 3rem
+    margin-top: 3rem;
+    width: 30rem
 }
 
 @media (max-width: 799px) {
