@@ -3968,7 +3968,7 @@ html.is-safari .reel-video-inner {
 .landing-services-text,
 .landing-vision-text {
     margin-top: 3rem;
-    width: 30rem
+    width: 35rem;
 }
 
 @media (max-width: 799px) {
